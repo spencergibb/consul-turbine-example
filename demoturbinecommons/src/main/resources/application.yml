@@ -1,0 +1,6 @@
+spring.application.name: turbinecommons
+server.port: 7979
+turbine:
+  aggregator:
+    clusterConfig: testconsulhystrix
+  appConfig: testconsulhystrix
